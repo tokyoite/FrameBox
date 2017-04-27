@@ -9,11 +9,12 @@ Angular Components for Generating Beautiful Framing around Images
 
 <b>Step 3</b>: Add FrameBoxModule to @ngModule imports.
         
-<b>Step 4</b>: Framebox component usage as follows,
+<b>Step 4</b>: Framebox component usage as follows,<br/>
 <code>
-        <framebox [image]="'http://wylandflorida.com/Images/JimWarren/65/thumbsXL/thumb_Dog Heaven 4.jpg'"
-          [pieceName]="'My Image Name'"
-          [frameStyle]="'Package_2552'"
-          [EnableSelection]="true">
-        </framebox>
+   <framebox
+     [image]="'http://wylandflorida.com/Images/JimWarren/65/thumbsXL/thumb_Dog Heaven 4.jpg'"
+     [pieceName]="'My Image Name'"
+     [frameStyle]="'Package_2552'"
+     [EnableSelection]="true">
+   </framebox>
 </code>
