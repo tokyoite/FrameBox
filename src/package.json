@@ -1,0 +1,27 @@
+{
+  "name": "framebox",
+  "version": "4.3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tokyoite/FrameBox"
+  },
+  "author": {
+    "name": "Octavio Gomez Jr,",
+    "email": "tavig123@hotmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tokyoite/FrameBox/issues"
+  },
+  "module": "framebox.js",
+  "typings": "framebox.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "@angular/http": "^4.1.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
