@@ -39,12 +39,12 @@
     <hr />
     <h2>Usage</h2>
     <hr />
-    <div class="well row">
+    <!--<div class="well row">
         <div class="col-sm-12">
             <p class="lead">Typical Angular 2 component using typescript.</p>
 
             <p></p>
-            <pre><code class="html" pCode>
+            <pre><code >
 import &#123; Component &#125; from &#x27;@angular/core&#x27;;
 @Component(&#123;
     selector: &#x27;home&#x27;,
@@ -74,10 +74,10 @@ export class HomeComponent &#123;
 &#x3C;/div&#x3E;                
                 </code></pre>
         </div>
-    </div>
+    </div>-->
     <h2>Selectors</h2>
     <hr />
-    <div class="well row">
+    <!--<div class="well row">
         <div class="col-sm-12">
             <b class="lead">[framebox]:</b>
             <pre><code class="TypeScript" pCode><b class="lead">&#x3C;framebox&#x3E;&#x3C;/ framebox&#x3E;</b></code></pre>
@@ -176,5 +176,5 @@ export class HomeComponent &#123;
                 </tbody>
             </table>
         </div>
-    </div>
+    </div>-->
 </div>
