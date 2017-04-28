@@ -14,8 +14,7 @@
         </div>
         <div class="col-sm-12">
             <span><b>Add FrameBoxModule to @ngModule imports. </b></span>
-            <pre>
-<code class="TypeScript" pCode>
+<code class="TypeScript" >
 @NgModule(&#123;
     &nbsp;declarations: [
         &nbsp;&nbsp;AppComponent,
@@ -32,7 +31,6 @@
     &nbsp;bootstrap: [AppComponent]
 &#125;)   
                 </code>
-</pre>
         </div>
 
     </div>
