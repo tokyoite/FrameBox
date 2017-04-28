@@ -1,8 +1,8 @@
-FrameBox
+<h1>FrameBox</h1>
 
-Angular Components for Generating Beautiful Framing around Images
+<h2>Angular Components for Generating Beautiful Framing around Images</h2>
 
-View Demo Here: https://tokyoite.github.io/FrameBox4Demo
+<b>View Demo Here</b>: https://tokyoite.github.io/FrameBox4Demo
 
 <b>Step 1</b>: npm install framebox@4.3.0
 
