@@ -3,16 +3,16 @@
     <hr />
     <h2 class='h2'>Install <a onclick="ga.push(['_trackEvent','Download','zip',this.href]);" href="{{data.project.download}}" class="btn btn-primary btn-lg pull-right">Download Zip</a></h2>
     <hr />
-    <div class="well row">
-        <div class="col-sm-12">
+    <!--<div class="well row">-->
+        <!--<div class="col-sm-12">-->
             <span><b>Download FrameBox from npm.</b></span>
             <pre><code class="TypeScript" pCode>npm install framebox@4.3.0 </code></pre>
-        </div>
-        <div class="col-sm-12">
+        <!--</div>-->
+        <!--<div class="col-sm-12">-->
             <span><b>Import FrameBoxModule from node_modules folder </b></span>
             <pre><code class="TypeScript" pCode>import &#123; FrameBoxModule &#125; from 'framebox';</code></pre>
-        </div>
-        <div class="col-sm-12">
+        <!--</div>-->
+        <!--<div class="col-sm-12">-->
             <span><b>Add FrameBoxModule to @ngModule imports. </b></span>
             <pre>
 <code >
@@ -33,16 +33,13 @@
 &#125;)   
                 </code>
 </pre>
-        </div>
+        <!--</div>-->
 
-    </div>
+    <!--</div>-->
     <hr />
     <h2>Usage</h2>
-    <hr />
-    <!--<div class="well row">
-        <div class="col-sm-12">
+    <hr />  
             <p class="lead">Typical Angular 2 component using typescript.</p>
-
             <p></p>
             <pre><code >
 import &#123; Component &#125; from &#x27;@angular/core&#x27;;
@@ -73,12 +70,12 @@ export class HomeComponent &#123;
     &#x3C;/div&#x3E;
 &#x3C;/div&#x3E;                
                 </code></pre>
-        </div>
-    </div>-->
+
+
     <h2>Selectors</h2>
     <hr />
-    <!--<div class="well row">
-        <div class="col-sm-12">
+
+ 
             <b class="lead">[framebox]:</b>
             <pre><code class="TypeScript" pCode><b class="lead">&#x3C;framebox&#x3E;&#x3C;/ framebox&#x3E;</b></code></pre>
 
@@ -175,6 +172,6 @@ export class HomeComponent &#123;
                     </tr>
                 </tbody>
             </table>
-        </div>
-    </div>-->
+
+
 </div>
