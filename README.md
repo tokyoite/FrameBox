@@ -1,4 +1,3 @@
-# FrameBox
 <br />
 <div class="container animated fadeIn">
     <hr />
@@ -42,7 +41,7 @@
     <hr />
     <div class="well row">
         <div class="col-sm-12">
-<p class="lead">Typical Angular 2 component using typescript.</p>
+            <p class="lead">Typical Angular 2 component using typescript.</p>
 
             <p></p>
             <pre><code class="html" pCode>
@@ -179,5 +178,3 @@ export class HomeComponent &#123;
         </div>
     </div>
 </div>
-
-
